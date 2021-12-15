@@ -1,1 +1,3 @@
-# Password Generator Starter Code
+# Password Generator 
+
+Generates random password using numbers, letters, and special characters.
